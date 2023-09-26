@@ -1,0 +1,25 @@
+button {
+    
+    background-color: #805215;
+    color: white;  
+}
+header {
+    background-color:#FFDBAA; 
+    display:flex; 
+}
+h1 text {
+    color:#553100; 
+    
+}
+html {
+    background-color:#D4A76A; 
+}
+section {
+    display: flex;
+    flex-wrap: flex;
+     
+}
+article {
+    background-color:white; 
+    flex: 200px; 
+}
